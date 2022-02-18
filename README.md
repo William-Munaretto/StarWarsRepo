@@ -1,6 +1,6 @@
 # Star Wars Repository
 
 
-![./milenium-falcon.jpg](Milenium Falcon Spaceship)
+![Milenium Falcon Spaceship](./milenium-falcon.jpg)
 
 Este repositório serve de exemplo para o curso de Git e Github da UDEMY.
